@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WPAdventskalender2:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b92884-5d9e-4d2a-ad3f-a94e7257497e" name="Default Changelist" comment="" />
+    <list default="true" id="e5b92884-5d9e-4d2a-ad3f-a94e7257497e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WPAdventskalender2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/DateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/storage/MoneyDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/storage/MyDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/Adventskalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/Adventskalender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/listener/InventoryClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/listener/InventoryClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/listener/PlayerInteractEntityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/woodpixel/adventskalender/listener/PlayerInteractEntityListener.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,12 +43,21 @@
     </option>
   </component>
   <component name="ProjectId" id="1TcF9vtJKJfe0DNIZgPos1pknF4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="wpadventskalender2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/API'S/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,5 +83,21 @@
       <updated>1573751328427</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

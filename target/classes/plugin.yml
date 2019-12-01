@@ -1,0 +1,7 @@
+name: WP-Advent
+version: 1.0
+authors: [TheRealDomm, KeinByte]
+
+main: net.woodpixel.adventskalender.Adventskalender
+commands:
+  setwpadvent:
